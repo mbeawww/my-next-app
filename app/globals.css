@@ -24,3 +24,135 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+
+font
+.ibm-plex-sans-thai-thin {
+    font-family: "IBM Plex Sans Thai", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.ibm-plex-sans-thai-extralight {
+    font-family: "IBM Plex Sans Thai", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.ibm-plex-sans-thai-light {
+    font-family: "IBM Plex Sans Thai", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.ibm-plex-sans-thai-regular {
+    font-family: "IBM Plex Sans Thai", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.ibm-plex-sans-thai-medium {
+    font-family: "IBM Plex Sans Thai", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.ibm-plex-sans-thai-semibold {
+    font-family: "IBM Plex Sans Thai", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.ibm-plex-sans-thai-bold {
+    font-family: "IBM Plex Sans Thai", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+
+
+.section1-box {
+    background-color: rgb(255, 227, 208);
+}
+
+.section1-name {
+    text-align: center;
+    color: blue;
+    font-size: 60px;
+}
+
+.section1-meta-data {
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+}
+
+.section1-profile-img {
+    width: 30%;
+    margin-left: 35%;
+    border: solid 2px black
+}
+
+.section1-caption {
+    text-align: center;
+    color: blue;
+    font-size: 25px;
+}
+
+.section2-box {
+    background-color: rgb(2, 98, 222);
+}
+
+.section2-contact-link {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    text-align: center;
+    font-size: 80px;
+    justify-content: center;
+}
+.section3-box {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 10px;
+}
+.section3-box-a {
+    background-color: rgb(221, 13, 13);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px;
+    width: 80%;
+    text-align: flex-start;
+}
+.section3-box-b {
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgb(13, 221, 13);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px;
+    width: 80%;
+    text-align: flex-end;
+}
+.menu-section{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(0, 26, 255);
+}
+.menu-item {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-family: "IBM Plex Sans Thai", sans-serif;
+}
+.font-title{
+    font-family: "IBM Plex Sans Thai", sans-serif;
+    font-size: 50px;
+    color: rgb(0, 26, 255);
+    text-align: center;
+}
