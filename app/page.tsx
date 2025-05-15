@@ -3,13 +3,8 @@ import MenuBar from "@/components/MenuBar"
 export default function IndexPage() {
   return (
   <div>
-    <MenuBar></MenuBar>
+    <MenuBar page="Home"/>  
     <div>
-      <div className="menu-section">
-        <a className="menu-item" href>หน้าหลัก</a>
-        <a className="menu-item" href="http://127.0.0.1:5500/Week3/about-me.html">เกี่ยวกับ</a>
-        <a className="menu-item" href="portfolio.html">ผลงาน</a>
-      </div>
       <div className="alert alert-warning" role="alert">
         <h1 className="ibm-plex-sans-thai-bold fonts">หมูเด้ง</h1>
       </div>
